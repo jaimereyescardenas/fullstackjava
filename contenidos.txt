@@ -2,4 +2,4 @@ Módulo 1: Programación en Java
 Módulo 2: Lenguaje de consultas a una base de datos
 Módulo 3: Fundamentos de Desarrollo Web
 Módulo 4: Desarrollo de Aplicaciones Web Dinámicas con Java
-Módulo 5
+Módulo 5: Desarrollo de aplicaciones JEE con Spring Framework
