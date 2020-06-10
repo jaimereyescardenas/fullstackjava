@@ -1,0 +1,1 @@
+Construir consultas a una base de datos relacional utilizando leguaje SQL para obtener y modificar información.
